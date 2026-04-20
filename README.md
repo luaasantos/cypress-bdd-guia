@@ -62,11 +62,13 @@ module.exports = defineConfig({
 
 ## 📁 Estrutura de Pastas
 
+```bash
 cypress/
  └── e2e/
       └── auth/
            ├── login.feature
            └── login.steps.js
+```
 
 ## 🧪 Exemplo de Feature (Gherkin)
 
